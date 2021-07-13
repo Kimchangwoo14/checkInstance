@@ -15,14 +15,14 @@ visual studio
 c#, Batch
 
 
-##How to use
+## How to use
 
-###at Instance
+### at Instance
 1. "check" move to c:
 2. run "check/addSchedule.bat"
 3. share check folder
 
-###server
+### server
 1. "state" move to c:
 2. run "state/addSchedule.bat"
 3. run serverStateCheck.exe
