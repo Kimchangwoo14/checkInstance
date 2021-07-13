@@ -1,0 +1,14 @@
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.csprojAssemblyReference.cache
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.csproj.ResolveComReference.cache
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.Form1.resources
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.Properties.Resources.resources
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.csproj.GenerateResource.cache
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.csproj.CoreCompileInputs.cache
+C:\Project_trunk\tool\checkState\supermango\bin\Debug\supermango.exe.config
+C:\Project_trunk\tool\checkState\supermango\bin\Debug\supermango.exe
+C:\Project_trunk\tool\checkState\supermango\bin\Debug\supermango.pdb
+C:\Project_trunk\tool\checkState\supermango\bin\Debug\FlatBuffers.dll
+C:\Project_trunk\tool\checkState\supermango\bin\Debug\ServiceStack.Redis.dll
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.csproj.CopyComplete
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.exe
+C:\Project_trunk\tool\checkState\supermango\obj\Debug\supermango.pdb

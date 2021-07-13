@@ -1,0 +1,6 @@
+
+DeviceID                                FreeSpace (GB)                         
+--------                                --------------                         
+C:                                      5.0 GB                                 
+
+
