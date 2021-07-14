@@ -11,3 +11,13 @@ C:\Project_trunk\tool\ServerStateCheck\serverStateCheck\bin\Release\serverStateC
 C:\Project_trunk\tool\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.Properties.Resources.resources
 C:\Project_trunk\tool\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.exe
 C:\Project_trunk\tool\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.pdb
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\bin\Release\serverStateCheck.exe.config
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\bin\Release\serverStateCheck.exe
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\bin\Release\serverStateCheck.pdb
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.csproj.ResolveComReference.cache
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\supermango.Form1.resources
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.exe
+C:\Users\user\Documents\GitHub\checkInstance\ServerStateCheck\serverStateCheck\obj\Release\serverStateCheck.pdb
